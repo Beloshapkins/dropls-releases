@@ -10,6 +10,14 @@ Send files and folders directly between Android, Mac, and Windows on the same lo
 | Mac | macOS 13 or later, Apple silicon | DMG |
 | Windows | Windows 10 or 11, x64 | EXE |
 
+**Less routine. More life.**
+
+Open LocalDrop on both devices on the same network. On your Mac or Windows PC, drag a file onto the bubble for the device you want to send it to. The first time, compare the pairing code on both screens.
+
+[Try it with a sample file in the interactive demo](https://getld.pages.dev/en#demo).
+
+![LocalDrop demo: drag a file onto the Android device bubble](localdrop-drag-and-drop.gif)
+
 ## Send your first file
 
 1. Install and open LocalDrop on both devices. Connect them to the same local network.
