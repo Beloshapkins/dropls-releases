@@ -13,12 +13,20 @@ Dropls sends files and folders between Android, macOS, and Windows over your loc
 
 Compare the pairing code on both screens the first time you connect two devices. Dropls remembers them as trusted devices. After that, send as many files or folders as you need between them. There’s no approval prompt for each send or receive.
 
+### Send your first file from Android to Mac
+
+Open Dropls on both devices on the same local network. Pick a file on Android and tap your Mac. Check that the pairing code matches on both screens. Once paired, the two devices can send and receive files without another approval prompt.
+
+![Illustrated guide to the first Android-to-Mac transfer in Dropls](dropls-first-transfer.gif)
+
 ## What you can do with Dropls
 
 - **Send a whole project folder.** On Mac or Windows, drop the folder onto the receiving device’s bubble. Dropls keeps the folder structure and shows one progress bar for the transfer.
 - **Keep filming while clips go to your Mac.** Turn on camera auto-upload on Android and choose your paired Mac. When the Mac is reachable on the same network, new camera photos and videos arrive in its receive folder. A separate editing agent can watch that folder and turn the clips into a draft Story for you to review.
 - **Back up the folders you work in every day.** Pair your devices once. Whenever you want a backup, drop the folder onto the receiving device’s bubble in Dropls on Mac or Windows. The folder arrives with its structure intact.
 - **Get a build onto your test phone.** On Mac or Windows, connect Dropls to an MCP client. After a build, ask your agent to send the APK you choose to your paired Android phone and report when it arrives.
+
+![Dropls demo showing a folder transfer from Windows to Mac](dropls-drag-and-drop.gif)
 
 ## Downloads
 
