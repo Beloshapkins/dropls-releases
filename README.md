@@ -7,7 +7,7 @@ I use Dropls every day. I wanted to spend less time moving files between my devi
 
 Dropls sends files and folders between Android, macOS, and Windows over your local network. No account or cloud upload required. The app is available in English and Russian. I originally released it as LocalDrop.
 
-[Download Dropls](https://github.com/Beloshapkins/dropls-releases/releases/tag/dropls-preview-2026-11) · [Try the interactive demo](https://droplease.pages.dev/en#demo)
+[Download Dropls](https://github.com/Beloshapkins/dropls-releases/releases/tag/dropls-preview-2026-11) · [Official website](https://dropls.app) · [Instagram @dropls.app](https://www.instagram.com/dropls.app/)
 
 ## Pair once. Send whenever you need.
 
