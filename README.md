@@ -1,5 +1,9 @@
 # Dropls
 
+Pair your devices once. Send files between Android, Mac, and Windows without confirming every transfer.
+
+[**Android APK**](https://github.com/Beloshapkins/dropls-releases/releases/download/dropls-preview-2026-11/Dropls-Android-0.9.3.apk) · [**macOS DMG**](https://github.com/Beloshapkins/dropls-releases/releases/download/dropls-preview-2026-11/Dropls-Mac-0.9.3-arm64.dmg) · [**Windows EXE**](https://github.com/Beloshapkins/dropls-releases/releases/download/dropls-preview-2026-11/Dropls-Windows-0.9.5-x64-Setup.exe)
+
 **Drop it. Please.**  
 **Fewer steps. More life.**
 
