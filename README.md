@@ -2,7 +2,7 @@
 
 Pair your devices once. Send files between Android, Mac, and Windows without confirming every transfer.
 
-[**Android APK**](https://github.com/Beloshapkins/dropls-releases/releases/download/dropls-preview-2026-11/Dropls-Android-0.9.3.apk) · [**macOS DMG**](https://github.com/Beloshapkins/dropls-releases/releases/download/dropls-preview-2026-11/Dropls-Mac-0.9.3-arm64.dmg) · [**Windows EXE**](https://github.com/Beloshapkins/dropls-releases/releases/download/dropls-preview-2026-11/Dropls-Windows-0.9.5-x64-Setup.exe)
+[**Android APK**](https://github.com/Beloshapkins/dropls-releases/releases/download/dropls-preview-2026-11/Dropls-Android-0.9.9.apk) · [**macOS DMG**](https://github.com/Beloshapkins/dropls-releases/releases/download/dropls-preview-2026-11/Dropls-Mac-0.9.8-arm64.dmg) · [**Windows EXE**](https://github.com/Beloshapkins/dropls-releases/releases/download/dropls-preview-2026-11/Dropls-Windows-0.9.8-x64-Setup.exe)
 
 **Drop it. Please.**  
 **Fewer steps. More life.**
@@ -32,13 +32,24 @@ Open Dropls on both devices on the same local network. Pick a file on Android an
 
 ![Dropls demo showing a folder transfer from Windows to Mac](dropls-drag-and-drop.gif)
 
+## Latest update — November 18, 2026
+
+Android **0.9.9** · macOS **0.9.8** · Windows **0.9.8**
+
+- **Energy saving mode.** Turn it on from the main screen or Settings. Dropls reduces periodic device discovery in the background and resumes searching when you open the app. The mode is off by default.
+- **Receiving stays available** while your device is awake and the operating system allows network access.
+- **Android camera uploads** look for the paired Mac when a new file needs to be sent. If the Mac is unavailable, the file stays queued.
+- **Android controls and readability.** The energy saving switch sits in the top bar beside refresh and Settings. Tap the battery icon for help. This update also fixes text contrast in dark mode.
+
+[Release notes and installers](https://github.com/Beloshapkins/dropls-releases/releases/tag/dropls-preview-2026-11)
+
 ## Downloads
 
-| Platform | Requirements | Installer |
-| --- | --- | --- |
-| Android | Android 10 or later | APK |
-| Mac | macOS 13 or later, Apple silicon | DMG |
-| Windows | Windows 10 or 11, x64 | EXE |
+| Platform | Version | Requirements | Installer |
+| --- | --- | --- | --- |
+| Android | 0.9.9 | Android 10 or later | [APK](https://github.com/Beloshapkins/dropls-releases/releases/download/dropls-preview-2026-11/Dropls-Android-0.9.9.apk) |
+| Mac | 0.9.8 | macOS 13 or later, Apple silicon | [DMG](https://github.com/Beloshapkins/dropls-releases/releases/download/dropls-preview-2026-11/Dropls-Mac-0.9.8-arm64.dmg) |
+| Windows | 0.9.8 | Windows 10 or 11, x64 | [EXE](https://github.com/Beloshapkins/dropls-releases/releases/download/dropls-preview-2026-11/Dropls-Windows-0.9.8-x64-Setup.exe) |
 
 ## Send your first file
 
