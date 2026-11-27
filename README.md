@@ -2,7 +2,7 @@
 
 Pair your devices once. Send files between Android, Mac, and Windows without confirming every transfer.
 
-[**Android APK**](https://github.com/Beloshapkins/dropls-releases/releases/download/dropls-preview-2026-11/Dropls-Android-0.9.9.apk) · [**macOS DMG**](https://github.com/Beloshapkins/dropls-releases/releases/download/dropls-preview-2026-11/Dropls-Mac-0.9.8-arm64.dmg) · [**Windows EXE**](https://github.com/Beloshapkins/dropls-releases/releases/download/dropls-preview-2026-11/Dropls-Windows-0.9.8-x64-Setup.exe)
+[**Android APK**](https://github.com/Beloshapkins/dropls-releases/releases/download/dropls-preview-2026-11/Dropls-Android-0.9.11.apk) · [**macOS DMG**](https://github.com/Beloshapkins/dropls-releases/releases/download/dropls-preview-2026-11/Dropls-Mac-0.9.8-arm64.dmg) · [**Windows EXE**](https://github.com/Beloshapkins/dropls-releases/releases/download/dropls-preview-2026-11/Dropls-Windows-0.9.8-x64-Setup.exe)
 
 **Drop it. Please.**  
 **Fewer steps. More life.**
@@ -32,7 +32,11 @@ Open Dropls on both devices on the same local network. Pick a file on Android an
 
 ![Dropls demo showing a folder transfer from Windows to Mac](dropls-drag-and-drop.gif)
 
-## Latest update — November 18, 2026
+## Android update — November 27, 2026
+
+Android **0.9.11** adds camera upload selection: photos only, videos only, or both. Changes apply after the current transfer. Newly enabled media types include only items captured after the change. Camera upload controls, help text and queue statuses now follow the selected app language (English or Russian).
+
+## Previous update — November 18, 2026
 
 Android **0.9.9** · macOS **0.9.8** · Windows **0.9.8**
 
@@ -47,7 +51,7 @@ Android **0.9.9** · macOS **0.9.8** · Windows **0.9.8**
 
 | Platform | Version | Requirements | Installer |
 | --- | --- | --- | --- |
-| Android | 0.9.9 | Android 10 or later | [APK](https://github.com/Beloshapkins/dropls-releases/releases/download/dropls-preview-2026-11/Dropls-Android-0.9.9.apk) |
+| Android | 0.9.11 | Android 10 or later | [APK](https://github.com/Beloshapkins/dropls-releases/releases/download/dropls-preview-2026-11/Dropls-Android-0.9.11.apk) |
 | Mac | 0.9.8 | macOS 13 or later, Apple silicon | [DMG](https://github.com/Beloshapkins/dropls-releases/releases/download/dropls-preview-2026-11/Dropls-Mac-0.9.8-arm64.dmg) |
 | Windows | 0.9.8 | Windows 10 or 11, x64 | [EXE](https://github.com/Beloshapkins/dropls-releases/releases/download/dropls-preview-2026-11/Dropls-Windows-0.9.8-x64-Setup.exe) |
 
